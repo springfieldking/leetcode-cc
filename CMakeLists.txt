@@ -9,5 +9,7 @@ set(CMAKE_CXX_EXTENSIONS ON)
 
 add_executable(p70_climbing-stairs p70_climbing-stairs.cc)
 add_executable(p62_unique-paths p62_unique-paths.cc)
+add_executable(p63_unique-paths-ii p63_unique-paths-ii.cc)
+
 
 
