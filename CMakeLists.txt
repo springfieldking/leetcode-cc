@@ -13,5 +13,4 @@ add_executable(p62_unique-paths p62_unique-paths.cc)
 add_executable(p63_unique-paths-ii p63_unique-paths-ii.cc)
 add_executable(p146_lru-cache p146_lru-cache.cc)
 add_executable(p27_remove-element p27_remove-element.cc)
-
-
+add_executable(p23_merge-k-sorted-lists p23_merge-k-sorted-lists.cc)
